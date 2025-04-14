@@ -16,14 +16,18 @@
   - 1 Switch 24 PoE
   - 1 Switch Flex Mini
   - 4 In Wall APs
+  - 1 Beacon HD
+  - Doorbell camera
   - Some PoE cameras
   - over 20 cable runs in my house
   - lots of cable crimping (fingers hurt after a while)
+  - 3 VLANs
 - I like modding hardware for fun — custom firmware, new components, anything hackable.
-- Currently relearning **circuit repair and soldering**. Started as a way to repair stick drift for me and my friends' controllers.
-- I normally listen to music while coding — *Voyage 24* by Porcupine Tree is my go-to album for focus.
+- I'm currently relearning **circuit repair and soldering**. Started as a way to repair stick drift for me and my friends' controllers.
+- I normally listen to music while coding — [*Voyage 34 by Porcupine Tree*](https://music.apple.com/cl/album/voyage-34-the-complete-trip-remastered/1196396189) is my go-to album for focus.
 - I like lifting weights (cardio? not so much). 🏋️ 
 - I love cooking — like coding, you start with a recipe, then remix it into something creative.
+- Recently got into espresso brewing, but my latte art sucks
 
 ---
 
